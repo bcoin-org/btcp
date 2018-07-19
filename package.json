@@ -1,6 +1,6 @@
 {
   "name": "btcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "TCP wrapper for node.js",
   "keywords": [
     "net",
