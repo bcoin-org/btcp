@@ -1,6 +1,6 @@
 {
   "name": "btcp",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "TCP wrapper for node.js",
   "keywords": [
     "net",
@@ -19,7 +19,7 @@
     "test": "bmocha --reporter spec test/*-test.js"
   },
   "devDependencies": {
-    "bmocha": "^0.1.8"
+    "bmocha": "^1.0.0"
   },
   "engines": {
     "node": ">=8.0.0"
